@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514375194670",
+    "project_id": "burgers-delicious-52390",
+    "storage_bucket": "burgers-delicious-52390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514375194670:android:3b0b2b5c6db3f13a8367bf",
+        "android_client_info": {
+          "package_name": "com.example.lanchonete_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514375194670-vd1p9p3pm4ja6rkqrkjv8as6sf73du98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tYsInG2RssaVOWbK4T9eDKVpxYK0EHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514375194670-vd1p9p3pm4ja6rkqrkjv8as6sf73du98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>514375194670-eca91odcopifhd63k3t3c2v0885rc40f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.514375194670-eca91odcopifhd63k3t3c2v0885rc40f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBQT0wQ_ZuS1-nXaFG0fF8NUnlxurmIhY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>514375194670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lanchoneteTeste</string>
+	<key>PROJECT_ID</key>
+	<string>burgers-delicious-52390</string>
+	<key>STORAGE_BUCKET</key>
+	<string>burgers-delicious-52390.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:514375194670:ios:23f82d77f657d5758367bf</string>
+</dict>
+</plist>
